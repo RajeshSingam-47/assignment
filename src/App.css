@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.list-container{
+  list-style-type: none;
+}
+
+
+.app-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.inputEle{
+  width: 20vw;
+}
+
+.imageEle{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

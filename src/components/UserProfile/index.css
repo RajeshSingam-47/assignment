@@ -1,0 +1,19 @@
+.user-card-container{
+    display: flex;
+    margin: 25px;
+    border-style: solid;
+    border-color: #111;
+}
+
+
+.delete-button{
+    width: auto;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.user-details-container{
+
+    margin: 5px;
+}
